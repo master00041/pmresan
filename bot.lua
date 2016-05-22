@@ -6,8 +6,8 @@ JSON = require('dkjson')
 HTTPS = require('ssl.https')
 dofile('utilities.lua')
 ----config----
-local bot_api_key = "" --BOT TOKEN تو کن ربات خود را در اینجا قرار دهید
-local You = 188548712  --ID ADMIN ایدی خود را اینجا قرار دهید
+local bot_api_key = "229913245:AAG1E_litpnSJUJUNexG6JaChq8Jez4U0pQ" --BOT TOKEN 
+local You = 164005083 --ID ADMIN 
 local BASE_URL = "https://api.telegram.org/bot"..bot_api_key
 local BASE_FOLDER = ""
 local start = [[ ]]
@@ -18,22 +18,22 @@ local start = [[ ]]
 local help = [[
 ➖➖➖➖➖➖➖➖➖➖➖
 *commands:*`for admin`
-`/ban` ✴️
+`/ban` 😑😊
 بن کردن یک شخص
-`/unban` ✴️
+`/unban` 😑😊
 ان بن کردن یک شخص
-`/users` ✴️
+`/users` 😑😊
 تعداد کاربران
-`/broadcast` ✴️
+`/broadcast` 😑😊
 شروع پیام همگانی
-`/unbroadcast` ✴️
+`/unbroadcast` 😑😊
 پایان ارسال پیام همگانی
-`/start` ✴️
+`/start` 😑😊
 شروع
-`/id` ✴️
+`/id` 😑😊️
 ایدی
 ➖➖➖➖➖➖➖➖➖➖➖
-M.KH @cruel0098
+@ultra_T_g_bot
 ]]--
 -------
 
