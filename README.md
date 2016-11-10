@@ -26,7 +26,7 @@ A simple telegram-bot wtitten in LUA
 
 نوشته شده توسط
 
-M.KH @cruel0098
+(Amin)[https://telegram.me/teshne]
 
 وارد فایل bot.lua شوید
 `````````````````````````````````````````````````````````````````````````````````
@@ -38,7 +38,7 @@ M.KH @cruel0098
 	
 	بعد از اینکار در سرور مراحل زیر را انجام دهید
 	
-	git clone https://github.com/mohamadkhoshnava/idbot.git
+	git clone https://github.com/master00041/pmresan.git
 	بجای ادرس گیت بنده ادرس گیت خود را وارد کنید
 	
 	lua bot.lua
